@@ -268,6 +268,76 @@
                 href="https://ccseidel.github.io/compphil2mmae/en/event/240606_v_seidel_potsdam/"
                 />
   </url><url>
+    <loc>https://ccseidel.github.io/compphil2mmae/en/tag/highlight/</loc>
+    <lastmod>2024-06-01T16:35:51+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ccseidel.github.io/compphil2mmae/tag/highlight/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://ccseidel.github.io/compphil2mmae/en/tag/highlight/"
+                />
+  </url><url>
+    <loc>https://ccseidel.github.io/compphil2mmae/en/post/240601_kideku/</loc>
+    <lastmod>2024-06-01T16:35:51+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ccseidel.github.io/compphil2mmae/post/240601_kideku/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://ccseidel.github.io/compphil2mmae/en/post/240601_kideku/"
+                />
+  </url><url>
+    <loc>https://ccseidel.github.io/compphil2mmae/en/post/</loc>
+    <lastmod>2024-06-01T16:35:51+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ccseidel.github.io/compphil2mmae/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://ccseidel.github.io/compphil2mmae/en/post/"
+                />
+  </url><url>
+    <loc>https://ccseidel.github.io/compphil2mmae/en/tag/news/</loc>
+    <lastmod>2024-06-01T16:35:51+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ccseidel.github.io/compphil2mmae/tag/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://ccseidel.github.io/compphil2mmae/en/tag/news/"
+                />
+  </url><url>
+    <loc>https://ccseidel.github.io/compphil2mmae/en/author/sebastian-cacean/</loc>
+    <lastmod>2024-06-01T16:35:51+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ccseidel.github.io/compphil2mmae/author/sebastian-cacean/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://ccseidel.github.io/compphil2mmae/en/author/sebastian-cacean/"
+                />
+  </url><url>
     <loc>https://ccseidel.github.io/compphil2mmae/en/tag/angewandte-ethik/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -352,20 +422,6 @@
                 href="https://ccseidel.github.io/compphil2mmae/en/author/inga-bones/"
                 />
   </url><url>
-    <loc>https://ccseidel.github.io/compphil2mmae/en/post/240601_kideku/</loc>
-    <lastmod>2024-07-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://ccseidel.github.io/compphil2mmae/post/240601_kideku/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://ccseidel.github.io/compphil2mmae/en/post/240601_kideku/"
-                />
-  </url><url>
     <loc>https://ccseidel.github.io/compphil2mmae/en/tag/llms/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -380,34 +436,6 @@
                 href="https://ccseidel.github.io/compphil2mmae/en/tag/llms/"
                 />
   </url><url>
-    <loc>https://ccseidel.github.io/compphil2mmae/en/post/</loc>
-    <lastmod>2024-07-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://ccseidel.github.io/compphil2mmae/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://ccseidel.github.io/compphil2mmae/en/post/"
-                />
-  </url><url>
-    <loc>https://ccseidel.github.io/compphil2mmae/en/tag/news/</loc>
-    <lastmod>2024-07-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://ccseidel.github.io/compphil2mmae/tag/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://ccseidel.github.io/compphil2mmae/en/tag/news/"
-                />
-  </url><url>
     <loc>https://ccseidel.github.io/compphil2mmae/en/tag/norms-of-public-reasoning/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -420,20 +448,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://ccseidel.github.io/compphil2mmae/en/tag/norms-of-public-reasoning/"
-                />
-  </url><url>
-    <loc>https://ccseidel.github.io/compphil2mmae/en/author/sebastian-cacean/</loc>
-    <lastmod>2024-07-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://ccseidel.github.io/compphil2mmae/author/sebastian-cacean/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://ccseidel.github.io/compphil2mmae/en/author/sebastian-cacean/"
                 />
   </url><url>
     <loc>https://ccseidel.github.io/compphil2mmae/en/event/240529_g_kolloquium_derpmann/</loc>
@@ -532,6 +546,20 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://ccseidel.github.io/compphil2mmae/en/event/240424_g_kolloquium_mueller/"
+                />
+  </url><url>
+    <loc>https://ccseidel.github.io/compphil2mmae/en/post/240331_dfg-netzwerk/</loc>
+    <lastmod>2024-04-01T20:26:14+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ccseidel.github.io/compphil2mmae/post/240331_dfg-netzwerk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://ccseidel.github.io/compphil2mmae/en/post/240331_dfg-netzwerk/"
                 />
   </url><url>
     <loc>https://ccseidel.github.io/compphil2mmae/en/research/argdown/</loc>
@@ -688,34 +716,6 @@
                 href="https://ccseidel.github.io/compphil2mmae/en/author/richard-lohse/"
                 />
   </url><url>
-    <loc>https://ccseidel.github.io/compphil2mmae/en/post/240331_dfg-netzwerk/</loc>
-    <lastmod>2024-03-31T20:26:14+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://ccseidel.github.io/compphil2mmae/post/240331_dfg-netzwerk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://ccseidel.github.io/compphil2mmae/en/post/240331_dfg-netzwerk/"
-                />
-  </url><url>
-    <loc>https://ccseidel.github.io/compphil2mmae/en/tag/highlight/</loc>
-    <lastmod>2024-04-10T16:35:51+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://ccseidel.github.io/compphil2mmae/tag/highlight/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://ccseidel.github.io/compphil2mmae/en/tag/highlight/"
-                />
-  </url><url>
     <loc>https://ccseidel.github.io/compphil2mmae/en/post/240315_mill-hb/</loc>
     <lastmod>2024-03-15T16:35:51+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -773,7 +773,7 @@
                 />
   </url><url>
     <loc>https://ccseidel.github.io/compphil2mmae/en/post/240125_promotion-schmitz/</loc>
-    <lastmod>2024-04-10T16:35:51+01:00</lastmod>
+    <lastmod>2024-01-25T16:35:51+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
