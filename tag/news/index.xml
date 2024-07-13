@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | CompPhil²MMAE</title>
+    <link>https://ccseidel.github.io/compphil2mmae/tag/news/</link>
+      <atom:link href="https://ccseidel.github.io/compphil2mmae/tag/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ccseidel.github.io/compphil2mmae/media/icon_hu99eb08ac2f50b755e88eabd7f473ee49_16280_512x512_fill_lanczos_center_3.png</url>
+      <title>News</title>
+      <link>https://ccseidel.github.io/compphil2mmae/tag/news/</link>
+    </image>
+    
+    <item>
+      <title>KIDeKu Projekt gestartet!</title>
+      <link>https://ccseidel.github.io/compphil2mmae/post/240601_kideku/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://ccseidel.github.io/compphil2mmae/post/240601_kideku/</guid>
+      <description>&lt;p&gt;Am 1.6.2024 ist unser Projekt &lt;strong&gt;&lt;em&gt;KIDeKu&lt;/em&gt;&lt;/strong&gt; gestartet. Das Projekt läuft bis zum 31.12.25 und wird vom &lt;a href=&#34;https://www.bmfsfj.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bundesministerium für Familie, Senioren, Frauen und Jugend&lt;/a&gt; im Rahmen der &lt;a href=&#34;https://www.bmfsfj.de/bmfsfj/richtlinie-zur-foerderung-von-kuenstlicher-intelligenz-fuer-das-gemeinwohl-198166&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Richtlinie zur Förderung von Künstlicher Intelligenz für das Gemeinwohl&lt;/a&gt; gefördert.&lt;/p&gt;
+&lt;p&gt;Im Projekt konzeptionieren &lt;a href=&#34;https://ccseidel.github.io/compphil2mmae/compphil2mmae/author/gregor-betz/&#34;&gt;Gregor Betz&lt;/a&gt; und &lt;a href=&#34;https://ccseidel.github.io/compphil2mmae/compphil2mmae/author/sebastian-cacean/&#34;&gt;Sebastian Cacean&lt;/a&gt; in Zusammenarbeitet mit zivilgesellschaftlichen Akteur:innen Einsatzszenarien und entwickeln technischen Grundlagen (bspw. Demoapps) für die Verwendung von Large Language Models (wie ChapGPT) zu Stärkung unserer deliberativen Kultur.&lt;/p&gt;
+&lt;p&gt;👉 &lt;a href=&#34;https://ccseidel.github.io/compphil2mmae/compphil2mmae/research/kideku/&#34;&gt;&lt;strong&gt;Erfahre mehr!&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

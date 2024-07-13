@@ -5,20 +5,89 @@
     <link>https://ccseidel.github.io/compphil2mmae/tag/angewandte-ethik/</link>
       <atom:link href="https://ccseidel.github.io/compphil2mmae/tag/angewandte-ethik/index.xml" rel="self" type="application/rss+xml" />
     <description>Angewandte Ethik</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ccseidel.github.io/compphil2mmae/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ccseidel.github.io/compphil2mmae/media/icon_hu99eb08ac2f50b755e88eabd7f473ee49_16280_512x512_fill_lanczos_center_3.png</url>
       <title>Angewandte Ethik</title>
       <link>https://ccseidel.github.io/compphil2mmae/tag/angewandte-ethik/</link>
     </image>
     
     <item>
-      <title>Chancen von KI zur Stärkung unser deliberativen Kultur (KIDEKU)</title>
+      <title>Chancen von KI zur Stärkung unser deliberativen Kultur (KIdeKu)</title>
       <link>https://ccseidel.github.io/compphil2mmae/research/kideku/</link>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://ccseidel.github.io/compphil2mmae/research/kideku/</guid>
-      <description>&lt;p&gt;Spätestens mit der Veröffentlichung von ChatGPT im Dezember 2022 ist einer breiten Öffentlichkeit klar geworden, welche herausragenden, noch vor einigen Jahren für unmöglich gehaltenen kognitiven Fähigkeiten generative Sprachmodelle besitzen und welche gesellschaftlichen Umwälzungen diese sich rasant entwickelnden Technologien nach sich ziehen könnten. KIDEKU untersucht die Chancen dieser Technologien zur Stärkung unserer deliberativen Kultur, und insbesondere zur Steigerung der Teilhabe an zivilgesellschaftlichen und politischen Debatten. Wir nehmen eine kritische Bestandsaufnahme vor, um daraus konkrete Handlungsempfehlungen sowie Best Practices für die gemeinwohlorientierte Nutzung von Sprachmodellen in deliberativen Demokratien abzuleiten. In Abstimmung mit ausgewählten zivilgesellschaftlichen Akteur*innen konzipieren wir neuartige Einsatzszenarien und explorieren sie in Form von Prototypen und DemoApps.&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;Im Projekt &lt;strong&gt;&lt;em&gt;KIdeKu&lt;/em&gt;&lt;/strong&gt; gehen wir der Frage nach, wie Large Language Models (LLMs) wie bspw. ChatGPT benutzt werden können, um unsere deliberative Kultur zu stärken. Welche Chancen bieten diese Technologien zur Verbesserung unserer demokratischen Praxis? Konkreter:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Wie können LLMs benutzt werden, um die Qualität des öffentlichen Diskurses zu verbessern?&lt;/li&gt;
+&lt;li&gt;Welche derzeitigen Probleme (Desinformation, Hassrede, &amp;hellip;) können durch die Verwendung von LLMs adressiert werden?&lt;/li&gt;
+&lt;li&gt;Welche Voraussetzungen müssen für einen erfolgreichen Einsatz von LLMs erfüllt sein?&lt;/li&gt;
+&lt;li&gt;Welche konkreten Einsatzszenarien sind vielversprechend für einen positiven Beitrag von LLMs zur deliberativen Kultur?&lt;/li&gt;
+&lt;li&gt;Wie können wir politische Teilhabe durch LLMs stärken?
+&lt;ul&gt;
+&lt;li&gt;Für welche Zielgruppen ist der Einsatz von LLMs besonders aussichtsreich?&lt;/li&gt;
+&lt;li&gt;Welche besonderen Herausforderungen stellt die Zielgruppe junger Menschen?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- Ziele --&gt;
+&lt;h2 id=&#34;ziele--vorgehen&#34;&gt;Ziele &amp;amp; Vorgehen&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Vorgehen in KIdeKu&#34; srcset=&#34;
+               /compphil2mmae/research/kideku/kideku_ziele_ablauf_hua31c761af72c92a379e1cd55400bbc1d_286574_db645361841f1930c78911e20039a55b.webp 400w,
+               /compphil2mmae/research/kideku/kideku_ziele_ablauf_hua31c761af72c92a379e1cd55400bbc1d_286574_3b3d73fbdef7268f61b6434233144f5a.webp 760w,
+               /compphil2mmae/research/kideku/kideku_ziele_ablauf_hua31c761af72c92a379e1cd55400bbc1d_286574_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://ccseidel.github.io/compphil2mmae/compphil2mmae/research/kideku/kideku_ziele_ablauf_hua31c761af72c92a379e1cd55400bbc1d_286574_db645361841f1930c78911e20039a55b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;467&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Für die Beantwortung dieser Leitfragen wollen wir in &lt;strong&gt;&lt;em&gt;KIdeKu&lt;/em&gt;&lt;/strong&gt; zivilgesellschaftliche Akteur:innen in unseren Forschungs- und Entwicklungsprozess einbinden und unsere Resultate für die Verwendung und Weiterentwicklung offen kommunizieren und frei verfügbar machen.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    🙋 Ihr habt Input, Ideen und wollt Euch in diesem Prozess einbringen? 👏 Dann meldet Euch bei uns! 👉 &lt;a href=&#34;mailto:kideku.kit.edu&#34;&gt;📧&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Wie streben die folgenden Ziele an:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;👥 &lt;strong&gt;Entwicklung von Einsatzszenarien:&lt;/strong&gt; In Abstimmung mit zivilgesellschaftlichen Akteur:innen konzipieren wir relevante und neuartige Einsatzszenarien. Wir wollen einen möglichst breiten Überblick darüber schaffen, wie LLMs gemeinwohlorientiert in unserer demokratischen Praxis verwendet werden können und welche Ziele damit verfolgt werden können. Es sollen sowohl die Anforderungen zivilgesellschaftlicher Organisationen an die Verwendung und Einbindung LLM-basierter Applikationen als auch die Bedarfe der unterschiedlichen Zielgruppen erfasst werden. Beispiele für solche Einsatzszenarien umfassen:
+&lt;ul&gt;
+&lt;li&gt;Faktenprüfer, Hate Speech Detektoren, KI-Assistenz beim Verfassen von Redebeiträgen, (partiell) automatisierte Moderation in Onlinedebatten, Debattenzusammenfassung, Argumentationserklärung, Argumentprüfung, &amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;🤖 &lt;strong&gt;Schaffung technischer Grundlagen:&lt;/strong&gt; Für einige der konzeptionierten Einsatzszenarien entwickeln wir technische Grundlagen, die von der Community benutzt und weiterentwickelt werden können. Diese Grundlagen umfassen:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Anforderungen&lt;/strong&gt;, anhand derer sich die Eignung von Sprachmodellen für den vorgesehenen Einsatz systematisch prüfen lässt. Diese Anforderungen werden in Form deliberativer Benchmarks (Testdatensätze) operationalisiert. Die gängigsten bestehenden Sprachmodelle werden daraufhin anhand der erstellten Benchmarks evaluiert.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Demoapps&lt;/strong&gt;, die den Einsatz von LLMs illustrieren und Ausgangspunkt für die Entwicklung einsatzbereiter Apps darstellen können.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;📋 &lt;strong&gt;Handlungsorientierung:&lt;/strong&gt; Ein Endbericht fasst den derzeitigen Wissensstand zur Nutzung von LLMs in deliberativen Demokratien zur Stärkung unserer deliberativen Kultur zusammen, trägt Projektergebnisse zusammen und formuliert Empfehlungen und Best Practices für zivilgesellschaftliche und politische Akteur:innen.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Insgesamt erarbeiteten wir in &lt;strong&gt;&lt;em&gt;KIdeKu&lt;/em&gt;&lt;/strong&gt; damit Konzepte und Studien zur Schaffung eines geeigneten operativen Rahmens für die Entwicklung und den Einsatz gemeinwohlorientierter KI in unserer demokratischen Praxis und hoffen, dass die Ergebnisse und Ideen aufgegriffen sowie weiterentwickelt werden.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Projektlaufzeit:&lt;/em&gt; 01.06.2024&amp;ndash;31.12.2025&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Gefördert vom:&lt;/em&gt;&lt;/p&gt;
+&lt;!-- ![Logo BMFSFJ](BMFSFJ_Logo.svg) --&gt;
+&lt;img align=&#34;left&#34; width=&#34;400&#34; src=&#34;BMFSFJ_Logo.svg&#34;&gt;</description>
     </item>
     
     <item>
