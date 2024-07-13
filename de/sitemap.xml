@@ -422,6 +422,20 @@
                 href="https://ccseidel.github.io/compphil2mmae/author/inga-bones/"
                 />
   </url><url>
+    <loc>https://ccseidel.github.io/compphil2mmae/tag/laufend/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://ccseidel.github.io/compphil2mmae/en/tag/laufend/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ccseidel.github.io/compphil2mmae/tag/laufend/"
+                />
+  </url><url>
     <loc>https://ccseidel.github.io/compphil2mmae/tag/llms/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -560,6 +574,20 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://ccseidel.github.io/compphil2mmae/post/240331_dfg-netzwerk/"
+                />
+  </url><url>
+    <loc>https://ccseidel.github.io/compphil2mmae/tag/abgeschlossen/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://ccseidel.github.io/compphil2mmae/en/tag/abgeschlossen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ccseidel.github.io/compphil2mmae/tag/abgeschlossen/"
                 />
   </url><url>
     <loc>https://ccseidel.github.io/compphil2mmae/research/argdown/</loc>
