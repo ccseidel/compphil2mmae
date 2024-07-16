@@ -954,20 +954,6 @@
                 href="https://ccseidel.github.io/compphil2mmae/en/event/221209_v_seidel_bayreuth/"
                 />
   </url><url>
-    <loc>https://ccseidel.github.io/compphil2mmae/en/outreach/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://ccseidel.github.io/compphil2mmae/outreach/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://ccseidel.github.io/compphil2mmae/en/outreach/"
-                />
-  </url><url>
     <loc>https://ccseidel.github.io/compphil2mmae/en/teaching/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -980,6 +966,20 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://ccseidel.github.io/compphil2mmae/en/teaching/"
+                />
+  </url><url>
+    <loc>https://ccseidel.github.io/compphil2mmae/en/outreach/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ccseidel.github.io/compphil2mmae/outreach/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://ccseidel.github.io/compphil2mmae/en/outreach/"
                 />
   </url><url>
     <loc>https://ccseidel.github.io/compphil2mmae/en/research/seppl/</loc>
@@ -1290,6 +1290,20 @@
                 href="https://ccseidel.github.io/compphil2mmae/en/publication/seidel-seidel-2019/"
                 />
   </url><url>
+    <loc>https://ccseidel.github.io/compphil2mmae/en/research/history-impartialism/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ccseidel.github.io/compphil2mmae/research/history-impartialism/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://ccseidel.github.io/compphil2mmae/en/research/history-impartialism/"
+                />
+  </url><url>
     <loc>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-2019-a/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1458,20 +1472,6 @@
                 href="https://ccseidel.github.io/compphil2mmae/en/publication/seidel-2017-a/"
                 />
   </url><url>
-    <loc>https://ccseidel.github.io/compphil2mmae/en/research/impartialism/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://ccseidel.github.io/compphil2mmae/research/impartialism/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://ccseidel.github.io/compphil2mmae/en/research/impartialism/"
-                />
-  </url><url>
     <loc>https://ccseidel.github.io/compphil2mmae/en/research/moralismus/</loc>
     <lastmod>2016-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1484,6 +1484,20 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://ccseidel.github.io/compphil2mmae/en/research/moralismus/"
+                />
+  </url><url>
+    <loc>https://ccseidel.github.io/compphil2mmae/en/research/impartialism/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ccseidel.github.io/compphil2mmae/research/impartialism/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://ccseidel.github.io/compphil2mmae/en/research/impartialism/"
                 />
   </url><url>
     <loc>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-2016/</loc>
