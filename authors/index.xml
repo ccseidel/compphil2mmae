@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | CompPhil²MMAE</title>
-    <link>https://ccseidel.github.io/compphil2mmae/authors/</link>
-      <atom:link href="https://ccseidel.github.io/compphil2mmae/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ccseidel.github.io/compphil2mmae/media/icon_hu99eb08ac2f50b755e88eabd7f473ee49_16280_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu99eb08ac2f50b755e88eabd7f473ee49_16280_512x512_fill_lanczos_center_3.png</url>
       <title>Authors</title>
-      <link>https://ccseidel.github.io/compphil2mmae/authors/</link>
+      <link>/authors/</link>
     </image>
     
   </channel>
