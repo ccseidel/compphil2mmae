@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anja Reinke | CompPhil²MMAE</title>
-    <link>/en/author/anja-reinke/</link>
-      <atom:link href="/en/author/anja-reinke/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ccseidel.github.io/compphil2mmae/en/author/anja-reinke/</link>
+      <atom:link href="https://ccseidel.github.io/compphil2mmae/en/author/anja-reinke/index.xml" rel="self" type="application/rss+xml" />
     <description>Anja Reinke</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>/en/author/anja-reinke/avatar_huc86d3ad7f8a268539f9ace046d68d6f8_4510420_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://ccseidel.github.io/compphil2mmae/en/author/anja-reinke/avatar_huc86d3ad7f8a268539f9ace046d68d6f8_4510420_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Anja Reinke</title>
-      <link>/en/author/anja-reinke/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/author/anja-reinke/</link>
     </image>
     
     <item>
       <title>Anja Reinke</title>
-      <link>/en/author/anja-reinke/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/author/anja-reinke/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/author/anja-reinke/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/author/anja-reinke/</guid>
       <description>&lt;p&gt;Anja Reinke ist zuständig für das Office Management des Lehrstuhls für Philosophische Anthropologie. Sie unterstützt das Team von CompPhil²MMAE in Forschung &amp;amp; Lehre bei allen verwaltungsbezogenen Prozessen.&lt;/p&gt;
 </description>
     </item>
